@@ -128,30 +128,6 @@ a {
     background-color:  rgb(131, 119, 89);
 }
 
-.products {
-    max-width: 1400px;
-    padding: 100px 20px;
-    margin: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: start;
-    text-decoration: none;
-    font-family: "Quicksand", sans-serif;
-}
-
-.products .productsContent {
-    border: solid black 3px;
-    padding: 50px;
-}
-
-.productsContent p {
-    color: black;
-}
-
-.products img {
-    height: 300px;
-    width: 300px;
-}
 
 .about {
     max-width: 1400px;
@@ -163,6 +139,14 @@ a {
     text-decoration: none;
     font-family: "Quicksand", sans-serif;
     background-color:  rgb(131, 119, 89);
+}
+
+.card {
+    padding: 50px;
+}
+
+.coffee {
+    padding-top: 50px;
 }
 
 .aboutArticle {
